@@ -7,9 +7,9 @@ Some online resources for learning elasticsearch
 - [the future is elastic] (http://www.elasticsearch.com/blog/the-future-is-elastic/), Sep 04, 2012
 
 ### Tutorials
+- [ElasticSearch 101 – a getting started tutorial] (http://joelabrahamsson.com/elasticsearch-101/), July 02, 2013
 - [ElasticSearch in 5 minutes] (http://www.elasticsearchtutorial.com/elasticsearch-in-5-minutes.html)
 - [Basic ElasticSearch Concepts] (http://www.elasticsearchtutorial.com/basic-elasticsearch-concepts.html)
-- [ElasticSearch 101 – a getting started tutorial] (http://joelabrahamsson.com/elasticsearch-101/), July 02, 2013
 - [Querying ElasticSearch - A Tutorial and Guide] (http://okfnlabs.org/blog/2013/07/01/elasticsearch-query-tutorial.html), July 01, 2013
 
 ### Understanding
