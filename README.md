@@ -19,6 +19,9 @@ Some online resources for learning elasticsearch
 - [javascript web applications and elasticsearch] (http://www.elasticsearch.org/tutorials/javascript-web-applications-and-elasticsearch/), August 22, 2012
 - [data visualization with elasticsearch and protovis] (http://www.elasticsearch.org/blog/data-visualization-with-elasticsearch-and-protovis/), May 13, 2011
 
+### Misc
+- [How to use Elastic Search on top of a pre-existing SQL Database?] (http://stackoverflow.com/questions/17856457/how-to-use-elastic-search-on-top-of-a-pre-existing-sql-database), July 25, 2013
+
 ### Books
 - [Exploring ElasticSearch] (http://exploringelasticsearch.com/), 2013
 
