@@ -14,6 +14,7 @@ Some online resources for learning elasticsearch
 
 ### Understanding
 - [what is an elasticsearch index?] (http://www.elasticsearch.org/blog/what-is-an-elasticsearch-index/), February 24, 2013
+- [My thoughts on Elasticsearch: Part 1: indexing] (http://bluesock.org/~willkg/blog/dev/elasticsearch_part1_index.html), May 10, 2013
 
 ### Applications
 - [javascript web applications and elasticsearch] (http://www.elasticsearch.org/tutorials/javascript-web-applications-and-elasticsearch/), August 22, 2012
